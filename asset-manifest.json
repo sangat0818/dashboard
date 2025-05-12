@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/bakeland-admin-dashboard/static/css/main.cefa8497.css",
+    "main.js": "/bakeland-admin-dashboard/static/js/main.cacf654f.js",
+    "static/js/455.37fd0c4f.chunk.js": "/bakeland-admin-dashboard/static/js/455.37fd0c4f.chunk.js",
+    "static/js/850.c7913309.chunk.js": "/bakeland-admin-dashboard/static/js/850.c7913309.chunk.js",
+    "static/js/459.e2996388.chunk.js": "/bakeland-admin-dashboard/static/js/459.e2996388.chunk.js",
+    "static/js/318.1a71f701.chunk.js": "/bakeland-admin-dashboard/static/js/318.1a71f701.chunk.js",
+    "static/js/296.1de88548.chunk.js": "/bakeland-admin-dashboard/static/js/296.1de88548.chunk.js",
+    "static/js/739.708715ae.chunk.js": "/bakeland-admin-dashboard/static/js/739.708715ae.chunk.js",
+    "static/js/453.35374022.chunk.js": "/bakeland-admin-dashboard/static/js/453.35374022.chunk.js",
+    "static/js/200.91782538.chunk.js": "/bakeland-admin-dashboard/static/js/200.91782538.chunk.js",
+    "static/js/660.7cb85361.chunk.js": "/bakeland-admin-dashboard/static/js/660.7cb85361.chunk.js",
+    "index.html": "/bakeland-admin-dashboard/index.html",
+    "main.cefa8497.css.map": "/bakeland-admin-dashboard/static/css/main.cefa8497.css.map",
+    "main.cacf654f.js.map": "/bakeland-admin-dashboard/static/js/main.cacf654f.js.map",
+    "455.37fd0c4f.chunk.js.map": "/bakeland-admin-dashboard/static/js/455.37fd0c4f.chunk.js.map",
+    "850.c7913309.chunk.js.map": "/bakeland-admin-dashboard/static/js/850.c7913309.chunk.js.map",
+    "459.e2996388.chunk.js.map": "/bakeland-admin-dashboard/static/js/459.e2996388.chunk.js.map",
+    "318.1a71f701.chunk.js.map": "/bakeland-admin-dashboard/static/js/318.1a71f701.chunk.js.map",
+    "296.1de88548.chunk.js.map": "/bakeland-admin-dashboard/static/js/296.1de88548.chunk.js.map",
+    "739.708715ae.chunk.js.map": "/bakeland-admin-dashboard/static/js/739.708715ae.chunk.js.map",
+    "453.35374022.chunk.js.map": "/bakeland-admin-dashboard/static/js/453.35374022.chunk.js.map",
+    "200.91782538.chunk.js.map": "/bakeland-admin-dashboard/static/js/200.91782538.chunk.js.map",
+    "660.7cb85361.chunk.js.map": "/bakeland-admin-dashboard/static/js/660.7cb85361.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cefa8497.css",
+    "static/js/main.cacf654f.js"
+  ]
+}
